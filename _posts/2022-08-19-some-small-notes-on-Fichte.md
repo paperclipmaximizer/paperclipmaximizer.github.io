@@ -1,6 +1,7 @@
 ---
 layout: post
 slug: Small notes on Fichte
+category: philosophy
 ---
 #### The concept of freedom in Fichte
 >The mere mention of the name freedom my heart opens and flowers, and with the word necessity, it contracts painfully. For I feel that I am free, and I hate the thought that I am not so.
