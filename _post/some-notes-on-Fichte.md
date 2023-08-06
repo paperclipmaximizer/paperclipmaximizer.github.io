@@ -2,7 +2,7 @@
 layout: post
 slug: Small notes on Fichte
 ---
-**The concept of freedom in Fichte**
+#### The concept of freedom in Fichte
 >The mere mention of the name freedom my heart opens and flowers, and with the word necessity, it contracts painfully. For I feel that I am free, and I hate the thought that I am not so.
 >(Fichte _Foundations of Natural Right_ 1796)
 
@@ -49,6 +49,7 @@ Fichte's philosophy was eventually used to justify German nationalism. He argued
 ---
 
 Here lies the quite difficult problem in Fichte's worldview, how to square his defence of German colonialism and his romanticism. That only contravention of violence was some higher moral regeneration. “Man shall be and do something.”
-For Fichte man is a ‘continuous action’. He must constantly create. A man who accepts what nature gives him is dead.  This was equally applicable to human beings and of nations. The basic logic Fichte follows to end up at this, essentially justification of colonialism, *Individuals* become *Free Individuals*, but they cannot become free while it is an object in space because nature unbreakable limitations on the object, therefore the free being is larger than man, the body is cast off in favour of spirit. Spirit is not the spirit of the individual, it is common to many men because each individual spirit is imperfect because it is confined by the particular bodily form, Then it becomes pure spirit as some mystical entity, like God, in which we are all sparks of its central fire, and here it ends in a kind mysticism. 
-
-But, once nationalist sentiment in Germany had risen, Fichte began to confer with Handel. Man is made a man by other men, by language, education, culture etc. inventions of others. Man is an element of this common stream. Man is in an organic unity with other men. This marked the movement from Man the individual, an empirical unit in space to the individual as something larger, a nation, a class, a sect, etc. This movement implies a transition on every level. Man is necessity of action because it’s necessity of action (circular). A nation's necessity to be free means it to be free of other nations and if other nations obstruct it it must make war.
+For Fichte man is a ‘continuous action’. He must constantly create. A man who accepts what nature gives him is dead. This was equally applicable to human beings and of nations. 
+The thread that Fichte follows to end up with a justification of colonialism, *Individuals* become *Free Individuals*, but they cannot become free while they are an object in space because of nature's unbreakable limitations on the object (gravity, time, transcendental etc), therefore the free being is larger than man, the body is cast off in favour of spirit. Spirit is not the spirit of the individual, it is common to many men because each individual spirit is imperfect, it is confined by the particular bodily form, then it becomes pure spirit as some mystical entity, like God, in which we are all sparks of its central fire, and here it ends in a kind mysticism. 
+Once nationalist sentiment in Germany had risen, Fichte began to confer with Handel arguing that 'man is made a man by other men', by language, education, culture etc. inventions of others. Man is an element of this common stream and man is in an organic unity with other men. This marked the movement from the individual, as an empirical unit in space to the individual as something larger, a nation, a class, a sect, etc. 
+This movement implies a transition on every level. Man is necessity of action because it’s necessity of action (circular). A nation's necessity to be free means it to be free of other nations and if other nations obstruct it it must make war.
