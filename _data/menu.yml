@@ -6,15 +6,15 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: cs-education
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+#  - title: computer science
+#    post_list:
+#      category: cs-education
+#      show_more: true
+#      show_more_text: See more posts...
+#      show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+#  - title: rss
+#    url: feed.xml
   
 #  - title: another list
 #    entries:
